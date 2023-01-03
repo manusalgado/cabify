@@ -1,0 +1,24 @@
+{
+  "name": "frontend-shopping-cart-challenge",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "engines": {
+    "node": "16.17.0"
+  },
+  "scripts": {
+    "dev": "vite --port 5173",
+    "build": "vite build --outDir dist",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "npm": "8.19.1",
+    "typescript": "4.8.3",
+    "vite": "3.1.0",
+    "vitest": "0.23.2"
+  },
+  "volta": {
+    "node": "16.17.0",
+    "npm": "8.19.1"
+  }
+}

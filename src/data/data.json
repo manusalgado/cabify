@@ -1,0 +1,7 @@
+{
+  "products": [
+    { "name": "Shirt", "id": "X7R2OPX", "price": 20 },
+    { "name": "Mug", "id": "X2G2OPZ", "price": 5 },
+    { "name": "Cap", "id": "X3W2OPY", "price": 10 }
+  ]
+}
